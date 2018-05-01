@@ -1,4 +1,4 @@
-package Estutural.Decorator;
+package Estrutural.Decorator;
 
 public abstract class Mago {
 

@@ -1,4 +1,4 @@
-package Estutural.Decorator;
+package Estrutural.Decorator;
 
 public class AnelDraconicoMago extends MagoDecorator {
 
